@@ -2,7 +2,7 @@
 
 **This is Prateek** :metal:
 
-- A Computer Science student and software developer :computer:
+- Currently working as a backend developer :computer:
 - Loves learning new stuff :pencil:
 - Never misses a Manchester United game :soccer:
 
