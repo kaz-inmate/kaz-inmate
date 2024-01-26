@@ -2,7 +2,7 @@
 
 **This is Prateek** :metal:
 
-- Currently working as a backend developer :computer:
+- Currently working as a software engineer :computer:
 - Loves learning new stuff :pencil:
 - Never misses a Manchester United game :soccer:
 
